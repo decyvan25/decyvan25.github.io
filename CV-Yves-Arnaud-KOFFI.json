@@ -1,0 +1,424 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 0,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Yves Arnaud KOFFI",
+    "headline": "Expert Cybersécurité, SecOps & Architecture Cloud DevOps",
+    "email": "kau.yvan@gmail.com",
+    "phone": "+33760765803",
+    "location": "Ile-De-France",
+    "website": {
+      "url": "https://www.linkedin.com/in/yakoffi",
+      "label": "LinkedIn"
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "",
+    "icon": "article",
+    "columns": 1,
+    "hidden": false,
+    "keepTogether": false,
+    "startOnNewPage": false,
+    "content": "<p>Consultant Senior &amp; Leader Technique en Cybersécurité (20+ ans d'expérience) spécialisé dans la sécurisation, l'audit et l'architecture des infrastructures critiques. Spécialiste SecOps/RSSI et audits d'intrusion (Active Directory, Web, Réseau), j'interviens de la gouvernance (ISO 27001, gestion des risques) au déploiement technique (SIEM, EDR, micro-segmentation). Certifié et spécialisé en Cloud DevOps &amp; DevSecOps (Terraform, Ansible, Docker, Kubernetes).</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "",
+      "icon": "messenger-logo",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "experience": {
+      "title": "",
+      "icon": "briefcase",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019f9d5b-31e6-70f8-9b1c-b46c39392548",
+          "hidden": false,
+          "company": "Indépendant",
+          "position": "Consultant Cybersécurité & Cloud DevOps (Freelance / R&D)",
+          "location": "",
+          "period": "Nov. 2025 – Présent",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><span><strong>DevSecOps &amp; IaC :</strong> Conception et déploiement d'infrastructures cloud sécurisées via Infrastructure as Code (Terraform, Ansible).</span></p></li><li><p><span><strong>Conteneurisation &amp; CI/CD :</strong> Sécurisation d'environnements conteneurisés (Docker, Kubernetes) et intégration du scannage de vulnérabilités dans les pipelines CI/CD.</span></p></li><li><p><span><strong>Conseil &amp; Posture SI :</strong> Audits de sécurité pour PME et veille stratégique sur les menaces émergentes.</span></p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019f9d5d-fcfd-74ef-ad47-5ac66dbd405a",
+          "hidden": false,
+          "company": "Cabinet Conseil",
+          "position": "Fondateur & Consultant Cybersécurité",
+          "location": "",
+          "period": "Juil. 2024 – Mai 2025",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><span><strong>Création &amp; Management :</strong> Élaboration d'offres de services (audits AD/Web, conformité) et gestion stratégique d'un cabinet de conseil.</span></p></li><li><p><span><strong>SOC Lab &amp; R&amp;D :</strong> Montage d'un lab SOC (Proxmox, Wazuh, ELK Stack), simulations d'attaques Red Teaming sur Active Directory et tests d'intrusion éthiques.</span></p></li><li><p><span><strong>Gestion de Projet International :</strong> Pilotage opérationnel et suivi de projets complexes.</span></p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019f9d60-1cd4-746a-9764-446e3c9bbfae",
+          "hidden": false,
+          "company": "M21 Formation",
+          "position": "Consultant Cybersécurité",
+          "location": "",
+          "period": "Mai 2024 – Juil. 202",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><span><strong>Audits &amp; Pentest :</strong> Tests d'intrusion ciblés sur les infrastructures Active Directory et identification des vecteurs d'attaque.</span></p></li><li><p><span><strong>Supervision &amp; Log Management :</strong> Déploiement d'architectures ELK pour la centralisation et l'analyse de logs.</span></p></li><li><p><span><strong>Remédiation :</strong> Plans d'action et recommandations pour le durcissement des systèmes (Hardening)</span></p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019f9d62-5694-72f8-a41b-1545b41924f2",
+          "hidden": false,
+          "company": "Sopra Steria Group",
+          "position": "Responsable de la Sécurité Opérationnelle (SecOps / RSSI)",
+          "location": "",
+          "period": "Mars 2023 – Sept. 2023",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><span><strong>Gouvernance &amp; Métriques :</strong> Définition des indicateurs de sécurité (KPI/KRI) et reporting exécutif auprès de la direction.</span></p></li><li><p><span><strong>Gestion des Vulnérabilités :</strong> Réduction de 30 % des vulnérabilités critiques via l'optimisation des campagnes de scan et de patch management.</span></p></li><li><p><span><strong>Gestion des Incidents :</strong> Amélioration du temps moyen de résolution (MTTR) en structurant les procédures d'escalade.</span></p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019f9d63-bdcb-743d-9923-9ae292babd66",
+          "hidden": false,
+          "company": "Metsys",
+          "position": "Consultant Cybersécurité (IAM & Résilience)",
+          "location": "",
+          "period": "Sept. 2021 – Mars 2023",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><span><strong>Gestion des Accès (IAM/PAM) :</strong> Mise en œuvre et audit des politiques de gestion des identités et accès à privilèges.</span></p></li><li><p><span><strong>Résilience &amp; Continuity :</strong> Maintien en condition opérationnelle (MCO) du Plan de Reprise d'Activité (PRA/PCA).</span></p></li><li><p><span><strong>Hardening :</strong> Support aux équipes d'exploitation pour le respect des baselines de sécurité.</span></p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019f9d66-ae8f-749f-acaf-9254c6e9da1c",
+          "hidden": false,
+          "company": "Verlingue / Proservia",
+          "position": "Ingénieur Cybersécurité & SecOps",
+          "location": "",
+          "period": "Mars 2019 – Août 2021",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><span><strong>Sécurité Réseau :</strong> Administration et durcissement des pare-feux CheckPoint Gaia et Fortinet ; micro-segmentation sous VMware NSX.</span></p></li><li><p><span><strong>Pentest &amp; Audits :</strong> Audits web/réseau (Kali Linux, Nessus, Metasploit, Burp Suite) et alignement OWASP.</span></p></li><li><p><span><strong>SOC &amp; EDR :</strong> Déploiement EDR/XDR, contrôle d'accès réseau (NAC) et collecte Syslog/NxLog.</span></p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "019f9d77-5b6c-763a-89c5-0c71c786cde9",
+          "hidden": false,
+          "company": "Jouve, Magency Digital, Carlson Wagonlit, IBM, Daher SI, Telisma",
+          "position": "Leader Technique / Ingénieur Systèmes, Réseaux & Datacenter",
+          "location": "",
+          "period": "2003 – 2016 (13 ans)",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p><strong>Administration Infrastructure &amp; Datacenter (Jouve, IBM, Telisma) :</strong> Maintien en condition opérationnelle (MCO N2/N3) d'infrastructures multi-OS (Linux/Unix, Windows Server, Active Directory) et gestion de baies de stockage (SAN/NAS).</p></li><li><p><strong>Sécurité &amp; Architecture Réseau (Jouve, Magency, Daher SI) :</strong> Administration et sécurisation des pare-feux (CheckPoint, Barracuda), routage/switching Cisco, segmentation VLAN, Wi-Fi et interconnexions WAN/MPLS.</p></li><li><p><strong>Gouvernance &amp; Management Opérationnel (Jouve) :</strong> Pilotage des comités de suivi, définition des KPI, gestion du cycle de vie des équipements et suivi de la base documentaire.</p></li></ul><p><strong>Environnement Technique global :</strong></p><p><strong>Sécurité &amp; SOC/SIEM :</strong> SIEM, Wallix (PAM), NAC, CheckPoint (Gaia R77/R80), Fortinet, Kali Linux, Wireshark, Nmap, OpenVAS, McAfee, Symantec, SCADA Security</p><p><strong>Systèmes &amp; OS :</strong> Windows Server, Active Directory, Linux (RedHat, MacOS), Unix (AIX, Sun Solaris), IBM AS/400</p><p><strong>Réseaux &amp; Télécoms :</strong> Cisco, Modèle OSI, Protocoles Réseaux, Wi-Fi, ToIP / PABX, Netgear, GNS3</p><p><strong>Virtualisation &amp; Cloud/Infra :</strong> VMware vSphere/vCenter, ESXi 6.5, Citrix, Serveurs HP &amp; Dell, Stockage SAN/NAS EMC</p><p><strong>Bases de Données &amp; Applications :</strong> Oracle, SQL Server (2005/2008 R2), SAP, Exchange / Lotus Notes</p><p><strong>Supervision, Ordonnancement &amp; Sauvegarde :</strong> Nagios, Centreon, Backup Exec, TWS (IBM Tivoli Workload Scheduler)</p>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "",
+      "icon": "graduation-cap",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "projects": {
+      "title": "",
+      "icon": "code-simple",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "skills": {
+      "title": "",
+      "icon": "compass-tool",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019f9d6b-ef3f-7799-9850-00eead541574",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Gouvernance & SecOps :",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "ISO 27001 Lead Implementor",
+            "Gestion des Risques",
+            "Vulnérabilités",
+            "Incidents (MTTR)",
+            "PCA/PRA"
+          ]
+        },
+        {
+          "id": "019f9d70-56e8-775a-856e-905b7c59e51c",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Sécurité Offensive & Audits :",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Pentesting AD",
+            "Audits Web/Réseau",
+            "OWASP Top 10",
+            "Kali Linux",
+            "Nessus",
+            "Burp Suite"
+          ]
+        },
+        {
+          "id": "019f9d70-9dcb-77e6-8506-cb7629bc677f",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "SecOps & Supervision :",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "SIEM (ELK",
+            "Wazuh)",
+            "EDR/XDR",
+            "Firewalls (CheckPoint",
+            "Fortinet)",
+            "VMware NSX"
+          ]
+        },
+        {
+          "id": "019f9d71-6ae6-7420-9f50-c53ad76d547b",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Cloud & DevSecOps",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Terraform",
+            "Ansible",
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "AWS",
+            "Azure"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "title": "",
+      "icon": "translate",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019f9d8e-6a70-70f7-9645-71e4ee0a1907",
+          "hidden": false,
+          "language": "Anglais",
+          "fluency": "",
+          "level": 3
+        }
+      ]
+    },
+    "interests": {
+      "title": "",
+      "icon": "football",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": [
+        {
+          "id": "019f9d7b-d6e5-7072-8ea9-15f9d3526a97",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Veille & Sécurité Offensive : CVE/CERT-FR, Hack The Box, Root-Me, Threat Intel.",
+          "keywords": []
+        },
+        {
+          "id": "019f9d7e-743f-7789-9613-4b50f68a5a9a",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Homelab & Cloud DevOps : Proxmox, Kubernetes, Infrastructure as Code, SOC Lab (Wazuh/ELK).",
+          "keywords": []
+        },
+        {
+          "id": "019f9d7f-59f5-71fc-8bd0-5fae524de81d",
+          "hidden": false,
+          "icon": "acorn",
+          "iconColor": "",
+          "name": "Événements & Communauté : Salons Tech/Cyber (FIC, LeHack), Veille sur l'IA & Souveraineté Numérique.",
+          "keywords": []
+        }
+      ]
+    },
+    "awards": {
+      "title": "",
+      "icon": "trophy",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "",
+      "icon": "certificate",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "publications": {
+      "title": "",
+      "icon": "books",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "volunteer": {
+      "title": "",
+      "icon": "hand-heart",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    },
+    "references": {
+      "title": "",
+      "icon": "phone",
+      "columns": 1,
+      "hidden": false,
+      "keepTogether": false,
+      "startOnNewPage": false,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "kakuna",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": true,
+          "main": [
+            "profiles",
+            "summary",
+            "education",
+            "skills",
+            "experience",
+            "projects",
+            "volunteer",
+            "references",
+            "certifications",
+            "awards",
+            "languages",
+            "interests",
+            "publications"
+          ],
+          "sidebar": []
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 12,
+      "format": "a4",
+      "locale": "fr-FR",
+      "hideLinkUnderline": false,
+      "hideIcons": false,
+      "hideSectionIcons": true
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(220, 38, 38, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "400",
+          "500"
+        ],
+        "fontSize": 9.5,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "IBM Plex Serif",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": "",
+    "styleRules": []
+  }
+}
